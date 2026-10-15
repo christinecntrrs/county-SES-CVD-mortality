@@ -14,7 +14,7 @@ year_summary <- ny_cvd_clean |>
   )
 
 
-# build & save plot (age-adjsuted)
+# build & save plot (age-adjusted)
 
 p <- ggplot(data = year_summary,
             aes(x = Year, y = age_adjusted_rate)) +
