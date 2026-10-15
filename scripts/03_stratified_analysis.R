@@ -50,9 +50,6 @@ ggsave("output/nyc_vs_nonnyc_age_adjusted_trend_2013_2020.png", plot = p)
 
 
 
-# NYC × SES stratified analysis
-
-
 # merging SES data
 
 ny_merged <- ny_cvd_clean |>
