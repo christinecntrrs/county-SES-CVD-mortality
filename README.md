@@ -16,7 +16,7 @@ I also compare New York City with counties outside the city to explore whether m
 
 ## What I am exploring
 
-Rather than looking at New York State as a single population, I am interested in how health outcomes vary across the communities within it. Poverty, income, and educational attainment capture different aspects of socioeconomic conditions, and examining them together offers a way to explore how these factors relate to geographic differences in cardiovascular mortality.
+Rather than looking at New York State as a single population, I am interested in how health outcomes vary across the communities within it. Poverty, income, and educational attainment capture different aspects of socioeconomic conditions, and examining them together offers a way to explore how these factors relate to geographic differences in CVD mortality.
 
 ## Limitations
 
