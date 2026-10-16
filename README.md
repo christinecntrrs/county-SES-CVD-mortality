@@ -20,7 +20,7 @@ Rather than looking at New York State as a single population, I am interested in
 
 ## Limitations
 
-This is an ecological analysis, so the findings describe associations at the county level and cannot be used to draw conclusions about individuals. The socioeconomic indicators are correlated with one another, and the ACS estimates (2015–2019) cover a different period than the annual mortality data (2013–2020). Other county-level factors not included in the analysis may also influence cardiovascular mortality. The analysis is exploratory and cannot establish that socioeconomic disadvantage causes higher cardiovascular mortality.
+This is an ecological analysis, so the findings describe associations at the county level and cannot be used to draw conclusions about individuals. The socioeconomic indicators are correlated with one another, and the American Community Survey (ACS) estimates (2015–2019) cover a different period than the annual mortality data (2013–2020). Other county-level factors not included in the analysis may also influence cardiovascular mortality. The analysis is exploratory and cannot establish that socioeconomic disadvantage causes higher cardiovascular mortality.
 
 ## Repository contents
 
